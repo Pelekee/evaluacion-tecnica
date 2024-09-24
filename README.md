@@ -1,3 +1,3 @@
 #evaluacion-tecnica
 
-Sistema de evaluacion en terreno para tecnico de telecomunicaciones
+Sistema de evaluación en terreno para técnico de telecomunicaciones.
