@@ -5,7 +5,7 @@ import { ThemedText } from '@/components/ThemedText';
 import { ThemedView } from '@/components/ThemedView';
 import RoleValidation from '@/components/RoleValidation';
 import AdminView from '@/components/AdminView'
-
+import UserView from '@/components/UserView'
 export default function menu() {
   
     return (
