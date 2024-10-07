@@ -1,7 +1,5 @@
 import { Image, StyleSheet, Platform, } from 'react-native';
-
-import { HelloWave } from '@/components/HelloWave';
-
+import 'react-native-gesture-handler';
 import { ThemedText } from '@/components/ThemedText';
 import { ThemedView } from '@/components/ThemedView';
 import LoginForm from "@/components/LoginForm.js";
@@ -9,16 +7,9 @@ import LoginForm from "@/components/LoginForm.js";
 
 export default function HomeScreen() {
   return (
-    
-    
-      
-        <LoginForm />
-      
-      
-      
-      
-    
-    
+  
+    <LoginForm/>
+       
   );
 }
 
